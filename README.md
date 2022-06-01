@@ -1,2 +1,2 @@
-# Web Dev Starting Projects
- Practice/Projects presesntation
+# Web Dev Starting Projects-animatedGalery
+ An animated/styled image galery
